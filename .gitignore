@@ -1,0 +1,75 @@
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+*.log
+*.class
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+*.project
+*.classpath
+*.factorypath
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# === Maven ===
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse specific
+.metadata/
+*.launch
+.settings/
+.recommenders/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+*.ipr
+*.idea_modules/
+# IntelliJ caches
+*.hprof
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/libraries
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/gradle.xml
+.idea/runConfigurations/
+.idea/scopes/
+.idea/httpRequests/
+.idea/shelf/
+
+# Spring Boot
+# Ignore logs
+logs/
+*.log
+spring.log
+
+# Others
+*.class
+*.tmp
+*.bak
+*.swp
